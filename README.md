@@ -26,6 +26,5 @@ Applicant’s panel :
 Admin panel :  
 ● Turning off application:   
 Admin can set the deadline and after deadline has passed admin can lock the apply page url so no one can get access.  
- 
 ● Shortlist generation  
 ● Merit list generation      
