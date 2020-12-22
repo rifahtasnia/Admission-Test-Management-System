@@ -30,7 +30,7 @@ Admin can set the deadline and after deadline has passed admin can lock the appl
 ● Merit list generation     
 
 ----------------------------------------------------------------------------------------------------------------------------------------     
-CONTRIBUTERS -
-• Zahin Raidah Maisha (170042032)
-• Nafisa Mehjabin (170042033)
-• Khandaker Rifah Tasnia (170042042)
+CONTRIBUTERS -                
+• Zahin Raidah Maisha (170042032)           
+• Nafisa Mehjabin (170042033)               
+• Khandaker Rifah Tasnia (170042042)                    
