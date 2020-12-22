@@ -27,4 +27,10 @@ Admin panel :
 ● Turning off application:   
 Admin can set the deadline and after deadline has passed admin can lock the apply page url so no one can get access.  
 ● Shortlist generation  
-● Merit list generation      
+● Merit list generation     
+
+----------------------------------------------------------------------------------------------------------------------------------------     
+CONTRIBUTERS -
+• Zahin Raidah Maisha (170042032)
+• Nafisa Mehjabin (170042033)
+• Khandaker Rifah Tasnia (170042042)
